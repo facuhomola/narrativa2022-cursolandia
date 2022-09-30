@@ -6,7 +6,8 @@
 	  <meta name="generator" content="Sitio web de Cursolandia">
 	  <meta name="keywords" content="Sitio web Cursolandia - Página principal">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link href="./../../css/bootstrap.min.css" rel="stylesheet">
+    <!--link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous"-->
     <link rel="stylesheet" href="./../../css/style.css">
     <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
     <title>Cursolandia - Leslie Gomez</title>
@@ -16,7 +17,7 @@
     <!--Cabecera-->
     <header>
         <?php
-            require('C:\xampp\htdocs\progIII-main\narrativa2022-cursolandia\header.php');
+            require('./../../header.php');
         ?>
     </header>
     <!--Fin cabecera-->
@@ -48,7 +49,7 @@
                   <img class="imagenes-card card-img-top" src="./imagenes/cursoUser1.jpg" alt="Card image cap" style="max-height: 190px; max-width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Programación en Python</h5>
-                        <a href="" class="btn btn-primary">Ir al curso</a>
+                        <a href="user1.php" class="btn btn-primary">Ir al curso</a>
                     </div>
             </div>
           </div>
@@ -77,11 +78,11 @@
     <!--Footer-->
      <footer>
         <?php
-            require('C:\xampp\htdocs\progIII-main\narrativa2022-cursolandia\footer.php');
+            require('./../../footer.php');
         ?>
     </footer>
     <!--Fin Footer-->
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="./../../js/bootstrap.bundle.min.js"></script>
+    <!--script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script-->
 </body>
 </html>
