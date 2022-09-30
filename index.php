@@ -21,6 +21,111 @@
     </header>
     <!--Fin cabecera-->
 
+    <!--Cursos-->
+    <section id="programacion">
+        <div class="container-lg pt-3 pb-3">
+            <div class="row">
+                <div class="col-12 p-2 m-2">
+                    <h4>Programar</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="./../narrativa2022-cursolandia/users/user1/imagenes/cursoUser1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Programación en Python</h5>
+                            <p class="card-text text-muted">Leslie Gomez</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="./../narrativa2022-cursolandia/users/user1/imagenes/cursoUser1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Programación en Python</h5>
+                            <p class="card-text text-muted">Leslie Gomez</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="./../narrativa2022-cursolandia/users/user1/imagenes/cursoUser1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Programación en Python</h5>
+                            <p class="card-text text-muted">Leslie Gomez</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="./../narrativa2022-cursolandia/users/user1/imagenes/cursoUser1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Programación en Python</h5>
+                            <p class="card-text text-muted">Leslie Gomez</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="marketing">
+        <div class="container-lg pb-3 pt-3">
+        <div class="row">
+                <div class="col-12 p-2 m-2">
+                    <h4>Marketing</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="https://www.mdmarketingdigital.com/img/marketingdigital-se/qmd-main-desk.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Marketing Digital</h5>
+                            <p class="card-text text-muted">Lucio Urioste</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="https://www.mdmarketingdigital.com/img/marketingdigital-se/qmd-main-desk.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Marketing Digital</h5>
+                            <p class="card-text text-muted">Lucio Urioste</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="https://www.mdmarketingdigital.com/img/marketingdigital-se/qmd-main-desk.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Marketing Digital</h5>
+                            <p class="card-text text-muted">Lucio Urioste</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3 col-sm-12">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="https://www.mdmarketingdigital.com/img/marketingdigital-se/qmd-main-desk.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Marketing Digital</h5>
+                            <p class="card-text text-muted">Lucio Urioste</p>
+                            <a href="users/user1/user1.php" class="btn btn-primary">Ir al curso</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Fin Cursos-->
+
     <!--Footer-->
     <footer>
         <?php

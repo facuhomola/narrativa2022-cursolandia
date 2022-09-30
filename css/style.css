@@ -1,5 +1,8 @@
 *{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 /*Paleta de colores*/
@@ -46,3 +49,7 @@
 #btn-registro:hover{
     opacity: 85%;
 }
+
+
+/*Contenedor de los cursos*/
+/*Fin contenedor de los cursos*/
