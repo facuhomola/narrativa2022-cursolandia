@@ -28,8 +28,8 @@
       </form>
     </div>
     <div class="pl-2 pr-2 ms-2">
-        <button id="btn-sesion" type="button" class="btn">Iniciar Sesión</button>
-        <button id="btn-registro" type="button" class="btn">Registrarse</button>
+        <a href="/progIII/narrativa/narrativa2022-cursolandia/bd/sesion.php" id="btn-sesion" type="button" class="btn">Iniciar Sesión</a>
+        <a href="/progIII/narrativa/narrativa2022-cursolandia/bd/registro.php" id="btn-registro" type="button" class="btn">Registrarse</a>
     </div>
   </div>
 </nav>
